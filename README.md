@@ -5,6 +5,8 @@
 
 Cinny is a matrix client focusing primarily on simple, elegant and secure interface. The desktop app is made with Tauri.
 
+-# hi i suck at coding - Masterionio
+
 ## Download
 
 Installers for macOS, Windows and Linux can be downloaded from [Github releases](https://github.com/cinnyapp/cinny-desktop/releases). Releases are signed with a [Ed25519](https://ed25519.cr.yp.to/) public-key.
