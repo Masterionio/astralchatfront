@@ -5,7 +5,7 @@
 
 Cinny is a matrix client focusing primarily on simple, elegant and secure interface. The desktop app is made with Tauri.
 
--# hi i suck at coding - Masterionio
+hi i suck at coding - Masterionio
 
 ## Download
 
