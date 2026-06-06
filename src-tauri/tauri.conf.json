@@ -1,7 +1,10 @@
 {
-  "bundle": {
+    "bundle": {
     "active": true,
     "targets": "all",
+    "externalBin": [
+      "binaries/tor"
+    ],
     "windows": {
       "certificateThumbprint": null,
       "digestAlgorithm": "sha256",
